@@ -5,14 +5,14 @@ O objetivo do projeto foi praticar conceitos de componentes, estados, props e es
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - **React** ⚛️  
 - **JavaScript (ES6+)**  
 - **HTML5 & CSS3**  
 
 ---
 
-## 📚 Funcionalidades
+## Funcionalidades
 ✔ Exibição de filmes em formato de **cards**  
 ✔ Filtro de filmes por **categorias** (Ação, Comédia, Ficção Científica etc.)  
 ✔ Layout **responsivo** para diferentes tamanhos de tela  
