@@ -1,6 +1,6 @@
 import { useState } from "react"
-import Catalogo from "./components/Catalogo"
 import NavCatalogo from "./components/NavCatalogo"
+import Catalogo from "./components/Catalogo"
 import '/src/style.css'
 
 function App() {

@@ -1,11 +1,4 @@
-const generos = [
-    'Todos',
-    'Ficção Científica',
-    'Ação',
-    'Comédia',
-    'Suspense',
-    'Animação'
-]
+import { generos } from "../db.js"
 
 const NavCatalogo = ({selecionarGenero}) => {
   return (
